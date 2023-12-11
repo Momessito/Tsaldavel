@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/momessito.github.io/lojinha-tsaldavel/static/css/main.29cda0cf.css",
+    "main.js": "/momessito.github.io/lojinha-tsaldavel/static/js/main.de0b59a0.js",
+    "static/media/Azeite.jpg": "/momessito.github.io/lojinha-tsaldavel/static/media/Azeite.0bd28ffa3ff968517094.jpg",
+    "static/media/chia.jpeg": "/momessito.github.io/lojinha-tsaldavel/static/media/chia.97f17b2fbfa070c14507.jpeg",
+    "static/media/oleo-de-coco.jpg": "/momessito.github.io/lojinha-tsaldavel/static/media/oleo-de-coco.a61a5b7da27ccd02da02.jpg",
+    "static/media/farinha-milho.jpg": "/momessito.github.io/lojinha-tsaldavel/static/media/farinha-milho.143743fa1b10711008b1.jpg",
+    "static/media/feijao.jpg": "/momessito.github.io/lojinha-tsaldavel/static/media/feijao.632918ac82c4a7f24309.jpg",
+    "static/media/pao.jpg": "/momessito.github.io/lojinha-tsaldavel/static/media/pao.96b86af32c8bb79b1276.jpg",
+    "static/media/leite-vegetal.jpg": "/momessito.github.io/lojinha-tsaldavel/static/media/leite-vegetal.66631a59b2197dc31c76.jpg",
+    "static/media/azeitona-preta.jpg": "/momessito.github.io/lojinha-tsaldavel/static/media/azeitona-preta.5528d98a8934ff3172b2.jpg",
+    "static/media/farinha-dagua.jpg": "/momessito.github.io/lojinha-tsaldavel/static/media/farinha-dagua.1f42ee82268b3d7e9361.jpg",
+    "static/media/logo.svg": "/momessito.github.io/lojinha-tsaldavel/static/media/logo.270499c11ed60d7e95fc64569a866f95.svg",
+    "static/media/sun.svg": "/momessito.github.io/lojinha-tsaldavel/static/media/sun.41742d8f9bb1070afc2ed6f22d4802c0.svg",
+    "index.html": "/momessito.github.io/lojinha-tsaldavel/index.html",
+    "static/media/github.svg": "/momessito.github.io/lojinha-tsaldavel/static/media/github.22e65707326e3e1e37afd21c5334995a.svg",
+    "static/media/moon.svg": "/momessito.github.io/lojinha-tsaldavel/static/media/moon.8e4f45879b7e7e67721ab2f6a9d67bc0.svg",
+    "static/media/cart.svg": "/momessito.github.io/lojinha-tsaldavel/static/media/cart.38a522f41c680fe46b04a69b20f1e3f7.svg",
+    "static/media/arrow-right.svg": "/momessito.github.io/lojinha-tsaldavel/static/media/arrow-right.079c1bc0417b22d261b1a22bea46c0e6.svg",
+    "static/media/arrow-left.svg": "/momessito.github.io/lojinha-tsaldavel/static/media/arrow-left.12c0d29c97a06250e9a92610b4641e41.svg",
+    "static/media/funnel.svg": "/momessito.github.io/lojinha-tsaldavel/static/media/funnel.cf493d87076333d9ba56377cd2d6f0cf.svg",
+    "static/media/x.svg": "/momessito.github.io/lojinha-tsaldavel/static/media/x.85f9f2a1f603d5a966a44474678a7981.svg",
+    "static/media/search.svg": "/momessito.github.io/lojinha-tsaldavel/static/media/search.b1f781b99ceaafb9c831949bb54ae3cd.svg",
+    "main.29cda0cf.css.map": "/momessito.github.io/lojinha-tsaldavel/static/css/main.29cda0cf.css.map",
+    "main.de0b59a0.js.map": "/momessito.github.io/lojinha-tsaldavel/static/js/main.de0b59a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29cda0cf.css",
+    "static/js/main.de0b59a0.js"
+  ]
+}
